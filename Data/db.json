@@ -1,0 +1,20 @@
+{
+  "chores": [
+    {
+      "name": "Cleaning",
+      "id": 1
+    },
+    {
+      "name": "Washing",
+      "id": 2
+    },
+    {
+      "name": "Vacuum cleaning",
+      "id": 3
+    },
+    {
+      "name": "dishes",
+      "id": 4
+    }
+  ]
+}
