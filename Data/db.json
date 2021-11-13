@@ -1,4 +1,5 @@
 {
+  "title": "Chores",
   "chores": [
     {
       "name": "Cleaning",
@@ -13,7 +14,7 @@
       "id": 3
     },
     {
-      "name": "dishes",
+      "name": "Dishes",
       "id": 4
     }
   ]
